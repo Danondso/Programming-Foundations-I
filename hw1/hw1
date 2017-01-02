@@ -1,0 +1,23 @@
+//------------------------------------
+// Program for converting FFF to SI
+// Author: Dublin Anondson
+// Date: 8/31/12
+//------------------------------------
+
+
+   #include <iostream>
+   int main ()
+{
+   // Variable declarations
+   float firkin = 0;
+   float furlong = 0;
+   float fortnight = 0;
+
+
+   // Question Prompt
+   cout << "Enter a value for Firkins" <<   
+  
+
+
+ 
+   
